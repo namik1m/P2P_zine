@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#A30A0A;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#383434;}
+	.st3{fill:#C61010;}
+	.st4{fill:none;stroke:#A30A0A;stroke-width:0.5;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#6D0A0A;stroke-width:0.25;stroke-miterlimit:10;}
+	.st6{fill:url(#SVGID_2_);stroke:#6D0A0A;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M48.3,12.3"/>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48.6724" y1="11.4214" x2="48.6724" y2="24.7964">
+		<stop  offset="0" style="stop-color:#6B6B6B"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<polygon class="st1" points="49.1,11.4 34.2,24.6 63.1,24.8 	"/>
+	<rect x="46.7" y="40.2" class="st2" width="4.7" height="52.6"/>
+	<line class="st0" x1="61.6" y1="23.8" x2="34.9" y2="23.8"/>
+	<rect x="32" y="24.8" class="st3" width="32.6" height="19.4"/>
+	<path class="st3" d="M70.9,34.7l2.5-2.8l-22-20l-2.7-2.6l0,0l0,0l0,0l-2.6,2.4L23.9,31.9l2.5,2.8l22.2-20.2c0,0,0.1,0,0.1,0
+		L70.9,34.7z"/>
+	<line class="st4" x1="48.7" y1="14.5" x2="26.5" y2="34.7"/>
+	<line class="st4" x1="71" y1="34.7" x2="48.8" y2="14.4"/>
+	<line class="st5" x1="37.6" y1="24.8" x2="59.9" y2="24.8"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="48.6859" y1="26.9723" x2="48.6859" y2="29.2039">
+		<stop  offset="0" style="stop-color:#3D3D3D"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path class="st6" d="M58.7,29.2h-20c-0.6,0-1.1-0.5-1.1-1.1v0c0-0.6,0.5-1.1,1.1-1.1h20c0.6,0,1.1,0.5,1.1,1.1v0
+		C59.8,28.7,59.3,29.2,58.7,29.2z"/>
+</g>
+</svg>

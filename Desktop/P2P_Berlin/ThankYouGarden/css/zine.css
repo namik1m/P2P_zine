@@ -1,0 +1,89 @@
+html,
+body {
+  font-size: 16px;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-image: url("../img/grass5.jpeg");
+}
+
+.header {
+  width: 100%;
+  height: 4rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+}
+
+.back {
+  margin-left: 2%;
+  margin-top: 1.5%;
+  background-color: #73500a;
+  border-radius: 50%;
+  padding: 0% 0.25%;
+  width: min-content;
+}
+
+.back p {
+  font-size: 1.2rem;
+  color: white;
+}
+
+.back p a {
+  text-decoration: none;
+  color: white;
+}
+
+.wrapper {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.part {
+  background-color: #73500a;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+/*
+<Introduction (30-40ish min max)>: Eloisa and Nami will introduce the project with a bit of reading performance (the letters)
+-> could be a poetic manifestation
+We go through the whole garden zine that we've made. 
+Nami can add some comments about my passion in hand-crafed webpage, embracing basic elements of html&css.
+Eloisa can also do similar...
+
+
+<The workshop part (The rest of the time. 1.5hrs)>
+
+Still questions:
+1) The scope of coding knowleges of participants (on-site)
+2) How many participants would we have approx? Taeyoon said the workshop is mainly for the participants coming to C/O on-site.
+
+
+Start with showing the basic prepared template.
+Let them know the activity they'll do: Each participant will create a page of web as a part of a zine that we're aiming to create. 
+Somte texts, background-image, and svg images(plants/flower/etc) will be prepared as folders by the hosts. 
+(Maybe using Gdrive but it'd be nice to discuss if there are alternative ways to give away the folders to people, as it's just our assumption that everyone would have google account.)
+
+The participants will basically pick some materials they wanna put in the folder then use them on their pages. 
+They can also write whatever they want. It's not mandatory for them to use the materials.
+After explaning the activity of the day, Nami and El will give them a 20-30minutes educational inputs (skill share)
+
+**Educational inputs for participants
+The templated (prepared by the hosts) will be a very basic, with linear div boxes arrangement.
+I think we can instruct that it's changeable depends how they want.
+-> So we share our skills about basic layout such as position & display (CSS)
+display: block, flex, grid...
++ if we have time: the use of svg image 
+
+There are many more details, but they will be covered by the hosts in person, due to realistic circumstanes. (Eloisa, one of the hosts, will help online)
+
+5-10ish text will be already prepared before the workshop
+(text will be relevantly (de-centralised) web culture. ournal, essay, literature by media artists/or could be written by p2p fellow residents 
+*/
